@@ -14,9 +14,12 @@ Download and install latest release tar.gz file from [releases page](https://git
 
 ## Description
 This mod adds Ucoz passwords support.
+For SMF 2.1 you should enable option  
+Admin - Maintenance - Server settings - Security - Allow password hash conversion
 
 ## Описание
 Добавляет поддержку шифрования паролей сервиса Ucoz.
-
+Для SMF 2.1 дополнительно нужно включить в настройках  
+Админка - Обслуживание - Настройки сервера - Безопасность - Разрешить конвертирование хешированных паролей
 ## Установка
 Загрузите и установите файл tar.gz актуальной версии со [страницы загрузок](https://github.com/realdigger/SMF-Ucoz-Passwords/releases).
